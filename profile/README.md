@@ -1,11 +1,14 @@
+# 외국인 전자지갑 서비스 DolFin
+<img width="1920" height="1080" alt="thumbnail" src="https://github.com/user-attachments/assets/4c1df656-824d-49da-8937-c53507227ce4" />
+
 ## 📝 목차
+
 - [프로젝트 소개](#-프로젝트-소개)
 - [팀원 구성](#-팀원-구성)
 - [개발 기간](#-개발-기간)
 - [주요 기능](#-주요-기능)
 - [ERD](#-erd)
 
----
 
 ## 📄 프로젝트 소개
 외국인 전자 지갑 서비스 "DolFin"
@@ -13,7 +16,6 @@
 외국인 유학생, 근로자, 다문화가정’을 대상으로,
 언어·금융 소외 해소를 위한 디지털 금융 플랫폼
 
---- 
 
 ## 👨‍👩‍👧‍👦 팀원 구성
 |               이준범(팀장)               |                 최예빈                 |                 박준아                 |                 김호진                 |                 유예원                 |
@@ -21,7 +23,7 @@
 | <img src="avatar1.png" width="150"> | <img src="avatar2.png" width="150"> | <img src="avatar3.png" width="150"> | <img src="avatar4.png" width="150"> | <img src="avatar5.png" width="150"> |
 |            PM & Back End            |        Front End & Docs Lead        |           Back End & git Lead           |             Back End & Info Manage             |         Front End & UI/UX Lead          |
 
---- 
+
 ## 📅 개발 기간
 ### 2025.07.09 ~ 2025.08.19
 
@@ -35,10 +37,15 @@
 | **테스트 및 성능 최적화** | 주요기능 및 성능 테스트                         | 2025.08.16 ~ 2025.08.19 |
 
 
----
 
 ## 🔎 주요 기능
-여기에 주요 기능 내용을 작성합니다.
+#### 시연 영상 링크: https://youtu.be/a3l5aJi-Jxg?si=30Z51e6xPTT5O2hw
+
+### 🌐다국어 UI 제공
+![img.png](service_21.png)
+- 사용자가 설정한 언어로 UI 변경 가능
+
+---
 
 ### 📝온보딩
 ![img.png](service_1.png)
@@ -107,14 +114,6 @@
 - 마커 클릭 -> 상세 정보 모달 확인 가능
   - 빨간 마커 : 다문화 가족 지원 센터 위치
   - 파란 마커 : 은행 외국은 특화 점포 위치
-
----
-### 🌐다국어 UI 제공
-![img.png](service_21.png)
-- 사용자가 설정한 언어로 UI 변경 가능
-
----
-<br/>
 
 
 ## 📐 ERD
