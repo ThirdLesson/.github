@@ -22,7 +22,7 @@
 |               이준범(팀장)               |                 최예빈                 |                 박준아                 |                 김호진                 |                 유예원                 |
 |:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
 | <img src="avatar1.png" width="150"> | <img src="avatar2.png" width="150"> | <img src="avatar3.png" width="150"> | <img src="avatar4.png" width="150"> | <img src="avatar5.png" width="150"> |
-|            PM & Back End            |        Front End & Docs Lead        |           Back End & git Lead           |             Back End & Info Manage             |         Front End & UI/UX Lead          |
+| **PM & Back End** | **Front End & Docs Lead** | **Back End & git Lead** | **Back End & Info Manage** | **Front End & UI/UX Lead** |
 
 
 ## 📅 개발 기간
