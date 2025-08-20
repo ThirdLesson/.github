@@ -4,7 +4,7 @@
 - [2. 팀원 구성](#2-팀원-구성)
 - [3. 개발 기간](#3-개발-기간)
 - [4. 기술 스택 🚀](#4-기술-스택-)
-- [5. 주요 기능 (Features)](#5-주요-기능-features)
+- [5. 주요 기능 (Features)](#5-주요-기능-features-)
 - [6. ERD](#6-erd)
 
 ---
@@ -15,20 +15,40 @@
 외국인 유학생, 근로자, 다문화가정’을 대상으로,
 언어·금융 소외 해소를 위한 디지털 금융 플랫폼
 
-### 🔎서비스 기능
 
 --- 
 <br/>
+
+## 2. 팀원 구성
+|               이준범(팀장)               |                 최예빈                 | 박준아 | 김호진 | 유예원 |
+|:-----------------------------------:|:-----------------------------------:| :---: | :---: | :---: |
+| <img src="avatar1.png" width="150"> | <img src="avatar2.png" width="150"> | <img src="avatar3.png" width="150"> | <img src="avatar4.png" width="150"> | <img src="avatar5.png" width="150"> |
+|            PM & Back End            |        Front End & Docs Lead        | Back End & git | Back End | Front End & UI/UX |
+
+
+## 3. 개발 기간
+
+<br/>
+
+## 4. 기술 스택 🚀
+프론트 vue
+<br/>
+백엔드 spring
+
+<br/>
+
+## 5. 주요 기능 (Features) 🔎
+여기에 주요 기능 내용을 작성합니다.
 
 ### 온보딩
 ![img.png](service_1.png)
 - 회원 가입 하기 전 볼 수 있는 첫 화면, DolFin에 대한 간단한 설명
 
 ---
-#### 회원가입 
+#### 회원가입
 ![img.png](service_2.png)
 - 회원가입 및 로그인 절차 입니다
-- 아이디, 비밀번호 입력, 휴대폰 번호 인증 후 여권 정보 입력 
+- 아이디, 비밀번호 입력, 휴대폰 번호 인증 후 여권 정보 입력
 
 ![img_1.png](service_3.png)
 - 아이디,비밀번호 조건 불총족 시 가입 불가능
@@ -62,27 +82,6 @@
 ![img.png](service_7.png)
 - DolFin 전자 지갑에 등록되어 있어야 보내기 가능
 - 등록되어 있는 전화 번호인지 검증 가능
-## 2. 팀원 구성
-|               이준범(팀장)               |                 최예빈                 | 박준아 | 김호진 | 유예원 |
-|:-----------------------------------:|:-----------------------------------:| :---: | :---: | :---: |
-| <img src="avatar1.png" width="150"> | <img src="avatar2.png" width="150"> | <img src="avatar3.png" width="150"> | <img src="avatar4.png" width="150"> | <img src="avatar5.png" width="150"> |
-|            PM & Back End            |        Front End & Docs Lead        | Back End & git | Back End | Front End & UI/UX |
-
-
-## 3. 개발 기간
-
-<br/>
-
-## 4. 기술 스택 🚀
-프론트 vue
-<br/>
-백엔드 spring
-
-<br/>
-
-## 5. 주요 기능 (Features)
-여기에 주요 기능 내용을 작성합니다.
-
 <br/>
 
 
