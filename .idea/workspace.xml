@@ -1,8 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.language.and.region&quot;
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="523537f0-3fe0-4ab0-8d2c-b3154e7b0acb" name="Changes" comment="기능소개">
+      <change afterPath="$PROJECT_DIR$/profile/service_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profile/service_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profile/service_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profile/service_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profile/service_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profile/service_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profile/service_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profile/service_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profile/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/profile/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profile/service_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/profile/service_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profile/service_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/profile/service_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profile/service_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/profile/service_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profile/service_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/profile/service_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profile/service_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/profile/service_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profile/service_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/profile/service_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profile/service_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/profile/service_7.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "khozan",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.language.and.region"
   }
-}</component>
+}]]></component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="기능소개" />
+    <option name="LAST_COMMIT_MESSAGE" value="기능소개" />
+  </component>
 </project>
